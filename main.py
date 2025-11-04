@@ -26,7 +26,7 @@ feat(auth): add user login functionality
 - Include input validation for credentials
 """
 
-MODEL_NAME = "llama3"
+MODEL_NAME = "llama2"
 API_ENDPOINT = "http://localhost:11434/v1/chat/completions"
 API_KEY = "ollama"
 MAX_RETRIES = 3
